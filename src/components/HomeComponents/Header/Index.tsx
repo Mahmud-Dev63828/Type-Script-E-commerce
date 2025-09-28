@@ -1,6 +1,6 @@
 import Container from "../../CommonComponents/Container.tsx";
 import { assets } from "../../../helpers/AssetProvider.tsx";
-import Button from "../../CommonComponets/Button";
+import Button from "../../CommonComponents/Button.tsx";
 import { icons } from "../../../helpers/IconsProvide.tsx";
 
 const Header = () => {
