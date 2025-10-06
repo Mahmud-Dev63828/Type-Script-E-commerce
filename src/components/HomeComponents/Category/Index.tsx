@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import Container from "../../CommonComponets/Container";
-import { icons } from "../../../helpers/IconsProver";
+import Container from "../../CommonComponents/Container";
+import { icons } from "../../../helpers/IconsProvide";
 
 const Category = () => {
   const [categoryOpen, setCategoryOpen] = useState<Boolean>(false);
