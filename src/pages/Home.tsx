@@ -3,6 +3,7 @@ import Header from "../components/HomeComponents/Header/Index";
 import TopNav from "../components/HomeComponents/TopNav/Index";
 import Menu from "../components/HomeComponents/Menu/Index";
 import Category from "../components/HomeComponents/Category/Index";
+import Banner from "../components/HomeComponents/Banner/Index";
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
       <TopNav />
       <Menu />
       <Category />
+      <Banner />
     </div>
   );
 };
